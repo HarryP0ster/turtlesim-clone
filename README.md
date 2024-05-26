@@ -3,7 +3,7 @@
 <pre>sudo apt install mesa-utils</pre>
 
 ## Running sim
-<pre>python3 listener.py <num_turtles></pre>
+<pre>python3 listener.py <i>num_turtles</i></pre>
 
 ## Running keyboard
 <pre>python3 publisher.py</pre>

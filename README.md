@@ -1,6 +1,5 @@
 ## Dependicies
-<pre>pip install cyclonedds glfw pyglm pyopengl</pre>
-<pre>pip install sshkeyboard</pre>
+<pre>pip install -r requirements.txt</pre>
 <pre>sudo apt install mesa-utils</pre>
 
 ## Running sim

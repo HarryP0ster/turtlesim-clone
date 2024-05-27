@@ -1,0 +1,8 @@
+cyclonedds==0.10.2
+glfw==2.7.0
+matplotlib==3.5.1
+numpy==1.21.5
+PyGLM==2.7.1
+PyOpenGL==3.1.7
+PyOpenGL==3.1.7
+sshkeyboard==2.3.1
